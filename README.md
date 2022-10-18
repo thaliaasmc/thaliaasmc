@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align="center">
+    <h2> Olá! Sou a Thalia Sampaio! </h2>
+</div>
+<div align="center">
+    <a href="https://github.com/thaliaasmc">
+        <img height="150em"
+            src="https://github-readme-stats.vercel.app/api?username=thaliaasmc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+        <img height="150em"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaasmc&layout=compact&langs_count=7&theme=dracula" />
+    </a>
+</div>
 
-<!--
-**thaliaasmc/thaliaasmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>
+👩🏼‍🎓  Student of Estudante de engenharia de software na 42 School <br>
+📚  O que estou aprendendo: C <br>
+💭  Me interesso por: Desenvolvimento Full Stack, Ux design, Mercado de pagamentos <br>
+🥂  Vamos bater um papo! Gosto de sugestões de melhoria e dicas de desenvolvimento <br>
+🟢  #OpenToWork
+</h4>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p> 🔭 I’m currently working on Get_Next_Line for 42 School.</p>
