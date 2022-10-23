@@ -3,6 +3,7 @@
     <h2> Olá! Sou a Thalia Sampaio! </h2>
 </div><br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thaliaasmc&label=Profile%20views&color=0e75b6&style=flat" alt="thaliaasmc" /> </p>
 
 <div align="center">
     <a href="https://github.com/thaliaasmc">
