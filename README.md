@@ -1,21 +1,9 @@
 
 <div align="center">
-    <h2> Olá! Sou a Thalia Sampaio! </h2>
+    <h2>WELCOME TO MY GITHUB</h2>
 </div><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thaliaasmc&label=Profile%20views&color=0e75b6&style=flat" alt="thaliaasmc" /> </p>
 
-<div align="center">
-    <a href="https://github.com/thaliaasmc">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    </a>
-</div>
-
-<br>
 <div align="center">
     <a href="https://github.com/thaliaasmc">
         <img height="150em"
@@ -24,11 +12,22 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaasmc&layout=compact&langs_count=7&theme=dracula" />
     </a>
 </div>
-
-<h4>
-👩🏼‍🎓  Estudante de engenharia de software na 42 School <br>
-📚  O que estou aprendendo: C <br>
-💭  Me interesso por: Desenvolvimento Full Stack, Ux design, Mercado de pagamentos <br>
-🥂  Vamos bater um papo! Gosto de sugestões de melhoria e dicas de desenvolvimento <br>
-🟢  #OpenToWork
-</h4>
+<br>
+<br>
+<p align="center"> My name is Thalia Sampaio<br>
+    Software engineering student at school 42<br>
+    Here you can see all my done projects by 42 and also other ones that I do by myself!<br>
+    Hope you enjoy!!!
+</p>
+<br>
+<h3 align="center">Contacts:</h>
+<br>
+<br>
+<div align="center">
+<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thaliaasmc&label=Profile%20views&color=0e75b6&style=flat" alt="thaliaasmc" /> </p>
